@@ -1,6 +1,12 @@
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Minhan Bae&fontSize=70&animation=twinkling)
 
-<h3> 🛠 Tech Stack </h3>
+<p align="right">
+  <a href="mailto:yuyuqw92@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimseowon98@gmail.com"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswkim-sm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
+</p>
+
+<h3> 🔭 I’m currently working on tesser Inc. </h3>
+<h3> 🛠 Tech Stack </h3> </br>
 <p>
   <a herf="https://twilight-fowl-db3.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Notion&logoColor=#FFFFFF"/></a>&nbsp </br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=#FFFFFF"/></a>&nbsp
