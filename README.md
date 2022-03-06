@@ -2,13 +2,13 @@
 
 <p align="right">
   <a href="mailto:yuyuqw92@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimseowon98@gmail.com"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhan-Bae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhan-Bae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a herf="https://twilight-fowl-db3.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=#FFFFFF"/></a>&nbsp </br>  
 </p>
 
 <h3> 🔭 I’m currently working on tesser Inc. </h3>
 <h3> 🛠 Tech Stack </h3> </br>
 <p>
-  <a herf="https://twilight-fowl-db3.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Notion&logoColor=#FFFFFF"/></a>&nbsp </br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=#FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=#FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=flat&logo=Pytorch Lightning&logoColor=#FFFFFF"/></a>&nbsp </br>  
