@@ -4,7 +4,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&amp;logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&amp;logoColor=white"/></a>&nbsp <br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&amp;logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&amp;logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&amp;logoColor=white"/></a>&nbsp 
 </p>
