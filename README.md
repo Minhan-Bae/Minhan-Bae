@@ -2,7 +2,7 @@
 
 <h3> 🛠 Tech Stack </h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Blog-3766AB?style=for-the-badge&logo=Notion&logoColor=white"/></a>&nbsp 
 </p>
 
 ![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhan-Bae&show_icons=true&theme=github_dark)
