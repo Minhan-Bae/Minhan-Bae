@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <a href="mailto:yuyuqw92@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yuyuqw92@gmail.com"/></a>
   <a href="https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=#FFFFFF&link=https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"/></a>
 </p>
