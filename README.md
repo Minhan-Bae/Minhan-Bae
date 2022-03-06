@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=135&section=header&text=Hi,%20I'm%20MinhanBae%20&fontSize=90&animation=twinkling&fontAlignY=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=135&section=header&text=Hi,%20I'm%20MinhanBae%20&fontSize=90&animation=twinkling&fontAlignY=80"/>
 </p>
 
 <h3 align="center"> 🌱 I'm Interested in </h3>
