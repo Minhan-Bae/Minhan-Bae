@@ -3,7 +3,9 @@
   <a href="https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=#FFFFFF&link=https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"/></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=150&section=header&text=Hi,%20I'm%20MinhanBae%20&fontSize=70&fontColor=FFFFFF&animation=twinkling)
+<center>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi,%20I'm%20MinhanBae%20&fontSize=90&animation=twinkling"/>
+</center>
 
 <h3 align="center"> 🌱 I'm Interested in </h3>
 
@@ -26,8 +28,4 @@
 
 <p align="center">
 ![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhan-Bae&show_icons=true&theme=github_dark)
-</p>
-
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhan-Bae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
