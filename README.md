@@ -4,22 +4,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=150&section=header&text=Hi,%20I'm%20MinhanBae%20&fontSize=70&fontColor=FFFFFF&animation=twinkling)
 
-<h3> 💬 Who I Am 💬 </h3>
-- Hanyang University, Department of Mechanical Design Engineering </br>
-- <a href="https://boostcamp.connect.or.kr/"> Boostcamp AI tech </a>, <a href="https://www.connect.or.kr/"> Naver Connect </a> </br>
-- Tesser Inc. AI researcher </br>
-
-<h3> 🌱 I'm Interested in </h3>
-- Computer Vision Technology(All industries) </br>
-  - Object detection </br>
-  - Segmentation </br>
-  - Pose Estimation </br>
-
-</p>
+<h3 align="center"> 🌱 I'm Interested in </h3>
 
 <p align="center">
-<h3> 🛠 Tech Stack </h3>
+    - Computer Vision Technology(All industries) </br>
+    - Object detection </br>
+    - Segmentation </br>
+    - Pose Estimation
 </p>
+
+<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
