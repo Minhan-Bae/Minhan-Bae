@@ -1,8 +1,11 @@
 <p align="left">
   <a href="mailto:yuyuqw92@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yuyuqw92@gmail.com"/></a>
   <a href="https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=#FFFFFF&link=https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"/></a>
+</p>
 
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=150&section=header&text=Hi,%20I'm%20MinhanBae%20&fontSize=70&fontColor=FFFFFF&animation=twinkling)
+</p>
 
 <h3 align="center"> 🌱 I'm Interested in </h3>
 
