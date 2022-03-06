@@ -10,17 +10,17 @@
 </p>
 
 <h2> 💬 Who I am </h2>
-- Hanyang University, Department of Mechanical Design Engineering
-  - Thesis: On-machine measurement of precision cylinder
-  - Master of Science in Mechanical Design Engineering
-- <a href="https://boostcamp.connect.or.kr/"> Boostcamp AI tech </a>, <a href="https://www.connect.or.kr/"> Naver Connect </a>
-- Tesser Inc. AI researcher
+- Hanyang University, Department of Mechanical Design Engineering </br>
+  - Thesis: On-machine measurement of precision cylinder </br>
+  - Master of Science in Mechanical Design Engineering </br>
+- <a href="https://boostcamp.connect.or.kr/"> Boostcamp AI tech </a>, <a href="https://www.connect.or.kr/"> Naver Connect </a> </br>
+- Tesser Inc. AI researcher </br>
 
 <h2> 🌱 I'm Interested in </h2>
-- Computer Vision Technology(All industries)
-  - Object detection
-  - Segmentation
-  - Pose Estimation
+- Computer Vision Technology(All industries) </br>
+  - Object detection </br>
+  - Segmentation </br>
+  - Pose Estimation </br>
 
 <h2> 🛠 Tech Stack </h2> </br>
 <p>
