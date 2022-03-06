@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=135&section=header&text=Hi,%20I'm%20MinhanBae%20&fontSize=90&animation=twinkling&fontAlignY=60"/>
 </p>
@@ -12,10 +10,4 @@
   <img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=flat-square&logo=Pytorch Lightning&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&amp;logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&amp;logoColor=white"/></a>  
-</p>
-</br>
-</br>
-<p align="center">
-  <a href="https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=#FFFFFF&link=https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"/></a>
-  <a href="mailto:yuyuqw92@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yuyuqw92@gmail.com"/></a>  
 </p>
