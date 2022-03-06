@@ -10,10 +10,7 @@
 <h3 align="center"> 🌱 I'm Interested in </h3>
 
 <p align="center">
-    - Computer Vision Technology(All industries) </br>
-    - Object detection </br>
-    - Segmentation </br>
-    - Pose Estimation
+  Computer Vision Technology(All industries!)
 </p>
 
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>
