@@ -13,11 +13,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&amp;logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&amp;logoColor=white"/></a>  
 </p>
-
-
-
-
-
+</br>
+</br>
+</br>
+</br>
 <p align="center">
   <a href="https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=#FFFFFF&link=https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"/></a>
   <a href="mailto:yuyuqw92@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yuyuqw92@gmail.com"/></a>  
