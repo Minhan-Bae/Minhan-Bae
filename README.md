@@ -3,10 +3,10 @@
 <h3> 🛠 Tech Stack </h3>
 <p>
   <a herf="https://twilight-fowl-db3.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d">
-  <img src="https://img.shields.io/badge/Blog?style=for-the-badge&logo=Notion&logoColor=##000000"/></a>&nbsp </br>
-  <img src="https://img.shields.io/badge/Python?style=plastic&logo=Python&logoColor=#3776AB"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Pytorch?style=plastic&logo=Pytorch&logoColor=#EE4C2C"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Pytorch Lightning?style=plastic&logo=Pytorch Lightning&logoColor=#792EE5"/></a>&nbsp </br>  
+  <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Notion&logoColor=#FFFFFF"/></a>&nbsp </br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=#FFFFFF"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=#FFFFFF"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=plastic&logo=Pytorch Lightning&logoColor=#FFFFFF"/></a>&nbsp </br>  
 </p>
 
 ![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhan-Bae&show_icons=true&theme=github_dark)
