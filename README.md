@@ -2,8 +2,7 @@
 
 <h3> 🛠 Tech Stack </h3>
 <p>
-  <a herf="https://twilight-fowl-db3.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d">
-  <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Notion&logoColor=#FFFFFF"/></a>&nbsp </br>
+  <a herf="https://twilight-fowl-db3.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Notion&logoColor=#FFFFFF"/></a>&nbsp </br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=#FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=#FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=plastic&logo=Pytorch Lightning&logoColor=#FFFFFF"/></a>&nbsp </br>  
