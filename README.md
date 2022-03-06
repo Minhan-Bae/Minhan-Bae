@@ -10,9 +10,11 @@
 </p>
 
 <h2> 💬 Who I am </h2>
+<p>
 - Hanyang University, Department of Mechanical Design Engineering </br>
   - Thesis: On-machine measurement of precision cylinder </br>
   - Master of Science in Mechanical Design Engineering </br>
+</p>
 - <a href="https://boostcamp.connect.or.kr/"> Boostcamp AI tech </a>, <a href="https://www.connect.or.kr/"> Naver Connect </a> </br>
 - Tesser Inc. AI researcher </br>
 
