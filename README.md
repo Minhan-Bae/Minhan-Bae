@@ -22,7 +22,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&amp;logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&amp;logoColor=white"/></a>  
 </p>
-
-<p align="center">
-![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhan-Bae&show_icons=true&theme=github_dark)
-</p>
