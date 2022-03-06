@@ -3,9 +3,9 @@
   <a href="https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=#FFFFFF&link=https://twilight-han.notion.site/Tech-Blog-f5cb4815912943ffb2f96766d26f264d"/></a>
 </p>
 
-<center>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hi,%20I'm%20MinhanBae%20&fontSize=90&animation=twinkling"/>
-</center>
+</p>
 
 <h3 align="center"> 🌱 I'm Interested in </h3>
 
