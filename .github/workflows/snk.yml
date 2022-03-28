@@ -25,6 +25,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          author: cleardusk <guojianzhu1994@gmail.com>
+          author: Minhan-Bae <yuyuqw92@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
