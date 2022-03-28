@@ -11,3 +11,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&amp;logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&amp;logoColor=white"/></a>  
 </p>
+
+[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/Minhan-Bae/Minhan-Bae@output/github-contribution-grid-snake.svg)](https://github.com/Minhan-Bae)
