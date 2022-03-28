@@ -12,4 +12,4 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&amp;logoColor=white"/></a>  
 </p>
 
-[![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/Minhan-Bae/Minhan-Bae@output/github-contribution-grid-snake.svg)](https://github.com/Minhan-Bae)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
